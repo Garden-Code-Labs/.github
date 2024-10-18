@@ -1,0 +1,3 @@
+## About Garden Code Labs
+Garden Code Labs (GCL) is an organization. We believe that development should be an enjoyable and creative experience for it to be truly fun and satisfying. G.C.L aims to develop projects that support the open source community, we have more affinity and mastery of technologies from the JS and TS community, because of that for the moment we will develop projects focused on that community but we do not rule out that in the future we will develop projects focused on other ecosystems or communities as we seek to help and facilitate common tasks used in many web projects...
+
