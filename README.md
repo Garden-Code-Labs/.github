@@ -1,2 +1,2 @@
-# .github
- Source code for the default community information files for the Garden Code Labs organization.
+# Garden Code Labs 
+ Source code for the informational files for the Garden Code Labs community.
